@@ -1,0 +1,11 @@
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\bin\Debug\CheckingEmailValidation.exe.config
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\bin\Debug\CheckingEmailValidation.exe
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\bin\Debug\CheckingEmailValidation.pdb
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\bin\Debug\ARSoft.Tools.Net.dll
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\bin\Debug\BouncyCastle.Crypto.dll
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\bin\Debug\ARSoft.Tools.Net.xml
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\obj\Debug\CheckingEmailValidation.csprojAssemblyReference.cache
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\obj\Debug\CheckingEmailValidation.csproj.CoreCompileInputs.cache
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\obj\Debug\CheckingEmailValidation.csproj.CopyComplete
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\obj\Debug\CheckingEmailValidation.exe
+F:\Intern\c#_dotnet\CheckingEmailValidation\CheckingEmailValidation\obj\Debug\CheckingEmailValidation.pdb
